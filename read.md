@@ -9,16 +9,18 @@
 - API : 외부 운세 api 연동하여 데이터 가져오기
 
 2. 개발도구
-#### 백엔드
-- 언어 : JavaScript , Ruby ?
-- 프레임워크 : Node.js (Express.js)
-#### 프론트엔드
-- 언어 : HTML, CSS, JS
-- 프레임워크 : React
-- 디자인 : CSS
-#### 데이터 저장
-- 데이터베이스 : MySQL
-- 파일저장 : JSON 파일로 관리
+- 백엔드
+  - 언어 : JavaScript , Ruby ?
+  - 프레임워크 : Node.js (Express.js)
+
+- 프론트엔드
+  - 언어 : HTML, CSS, JS
+  - 프레임워크 : React
+  - 디자인 : CSS
+
+- 데이터 저장
+  - 데이터베이스 : MySQL
+  - 파일저장 : JSON 파일로 관리
 
 3. API
 - 운세 API : 운세 정보를 제공하는 "우측별자리 API" , "운세 데이터 제공 API" 이용
